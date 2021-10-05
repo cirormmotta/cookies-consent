@@ -12,7 +12,7 @@
 }
 #cconsent-bar,
 #cconsent-modal {
-    font-family: "Maven Pro", sans-serif !important;
+    font-family: 'Open Sans',Helvetica,Arial,Lucida,sans-serif !important;
     font-size: 15px !important;
 }
 
@@ -116,6 +116,9 @@
 #cconsent-modal .ccm__footer button:last-child:hover {
     background-color: var(--primary-color);
     color: var(--light-white);
+}
+#cconsent-modal {
+    z-index: 99999;
 }
 
 #cconsent-modal

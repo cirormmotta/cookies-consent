@@ -165,3 +165,6 @@
 #cconsent-modal .ccm__list__title {
     font-weight: normal !important;
 }
+#cconsent-modal {
+    z-index: 99999 !important;
+}

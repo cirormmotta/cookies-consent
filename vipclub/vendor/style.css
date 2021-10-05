@@ -13,7 +13,7 @@
 }
 #cconsent-bar,
 #cconsent-modal {
-    font-family: "Maven Pro", sans-serif !important;
+    font-family: inherit !important;
     font-size: 15px !important;
 }
 
